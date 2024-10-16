@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "mySql": "server=localhost;uid=root;pwd=Mariners1!;database=mmabooks"
+  }
+}

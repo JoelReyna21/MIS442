@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "mySql": "server=;uid=root;pwd=;database="
+  }
+}

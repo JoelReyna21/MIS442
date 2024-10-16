@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MMABooksDBClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9bcb0b928ab7713fcb32daea9c67426918b9811")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c97a093757706c01e944222058fa7a77bb229a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MMABooksDBClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MMABooksDBClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

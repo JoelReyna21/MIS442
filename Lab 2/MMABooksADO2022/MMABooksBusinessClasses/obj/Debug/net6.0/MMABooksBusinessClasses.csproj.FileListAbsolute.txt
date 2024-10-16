@@ -1,0 +1,12 @@
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\bin\Debug\net6.0\MMABooksBusinessClasses.deps.json
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\bin\Debug\net6.0\MMABooksBusinessClasses.dll
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\bin\Debug\net6.0\MMABooksBusinessClasses.pdb
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.AssemblyInfoInputs.cache
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.AssemblyInfo.cs
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.csproj.CoreCompileInputs.cache
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.sourcelink.json
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.dll
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\refint\MMABooksBusinessClasses.dll
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.pdb
+C:\Users\joelr\source\repos\MIS442\Lab 2\MMABooksADO2022\MMABooksBusinessClasses\obj\Debug\net6.0\ref\MMABooksBusinessClasses.dll
